@@ -1,6 +1,6 @@
 # Udemig-college
 
-- Bu proje, Udemig Koleji için HTML ve CSS kullanılarak geliştirilmiş bir web sitesi tasarımıdır.
+- This project is a website design developed using HTML and CSS for Udemig College.
 
 # Pireview
 ![](/img/udemigApp.gif)
